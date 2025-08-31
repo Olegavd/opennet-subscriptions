@@ -1,2 +1,2 @@
-vless://00675f05-9120-4be1-a268-f82ccb19bf9f@78.141.246.60:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=q1iupktG08KjVxCWfpnl5qkmWR3iMSoI9t4Z5jlpjF0&sid=8dd30a86bf222cf1&type=tcp#GB-London-28(upd)
-vless://cda3bd12-6ab0-4d75-bd81-6af7e2c9ec1a@78.141.246.60:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=q1iupktG08KjVxCWfpnl5qkmWR3iMSoI9t4Z5jlpjF0&sid=8dd30a86bf222cf1&type=tcp#GB-London-25(upd)
+vless://00675f05-9120-4be1-a268-f82ccb19bf9f@78.141.246.60:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=q1iupktG08KjVxCWfpnl5qkmWR3iMSoI9t4Z5jlpjF0&sid=8dd30a86bf222cf1&type=tcp#Proxy-GB-London-28(upd)
+vless://cda3bd12-6ab0-4d75-bd81-6af7e2c9ec1a@78.141.246.60:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=q1iupktG08KjVxCWfpnl5qkmWR3iMSoI9t4Z5jlpjF0&sid=8dd30a86bf222cf1&type=tcp#Proxy-GB-London-25(upd)
